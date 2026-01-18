@@ -13,7 +13,7 @@ function createStory() {
     story.innerHTML = 
     "I met a " + noun.value + 
     " who could " + verb.value + 
-    " very fast. He wore a " + color.value + 
+    " really well. He wore a " + color.value + 
     " shirt." + " It was a " + adjective + 
     " day when we went to the " + place + "." +
     " Suddenly, a " + animal + " appeared and made me feel " + emotion + "." +
