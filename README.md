@@ -18,3 +18,7 @@
 # Challenges/Learned
 - A challenge was to get the results to appear
 - I learned how to use input fields
+
+# Picture
+<img width="1469" height="760" alt="Screenshot 2026-01-18 at 10 49 50 AM" src="https://github.com/user-attachments/assets/d51b40c8-927a-4d0f-9ee0-2932b225b35e" />
+
